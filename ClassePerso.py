@@ -17,7 +17,7 @@ class AgentSecret(Personnage):
 		return "AGENT : Nom :{0}".format(self.nom)
 		
 
-	"master update only"
+	"ON EST LAAAAAAA"
 
 
 
